@@ -1,0 +1,19 @@
+// Deploy Lux
+// 1 - Set URI
+// 2 - Set LuxAuction and LuxMint as admins
+
+// Deploy LuxMint
+// 1 - Set Signer
+// 2 - Set Lux Address
+// 3 - Set Recipient
+// 4 - Activate / Deactivate Mints as needed
+
+// Deploy LuxAuction
+1 - Add LuxAuction as admin for Lux
+2 - Setup the auction - Bellum
+    reserve price : 100000000000000000
+    min bid : 10000000000000000
+    token ID to win: 1
+
+
+// Create WL with Lux address
